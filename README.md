@@ -4,6 +4,7 @@ Course project for "Getting and Cleaning" data course
 This repo contains the following files:
 1. run_analysis.R
 2. codebook.md
+3. summary_data.txt
 
 ## 1. run_analysis.R
 Contains a script to download the gyroscope dataset, create a tidy data
@@ -20,3 +21,6 @@ activity.  The script accomplishes the following tasks:
 
 ## 2. codebook.md
 This file contains the codebook for the dataset.
+
+## 3. summary_data.txt
+The tidy data set.
