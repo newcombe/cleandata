@@ -39,7 +39,7 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-**bold**Each of the above listed variables is presented as the mean grouped by activity and subject.__bold__
+**Each of the above listed variables is presented as the mean grouped by activity and subject.**
 
 ## Grouping variables
 * Subject = test subject identifier
